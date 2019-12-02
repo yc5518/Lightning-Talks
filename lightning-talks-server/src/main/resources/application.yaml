@@ -48,6 +48,6 @@ logging:
 app:
    auth:
       tokenSecret:
-      tokenExpirationMsec:
+      tokenExpirationMsec: 864000000
    oauth2:
       authorizedRedirectUris:
